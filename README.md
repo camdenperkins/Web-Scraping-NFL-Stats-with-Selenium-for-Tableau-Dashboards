@@ -22,7 +22,7 @@ After scraping, I cleaned and standardized the data using a custom clean_offense
 <img width="536" height="188" alt="image" src="https://github.com/user-attachments/assets/7796be55-0032-4806-b96d-f818ffbb1b02" />
 
 # Aggregating and Structuring the Dataset
-I then looped through a list of game URLs from Week 1, scraped and cleaned each game’s offense table, and stored the results in a dictionary keyed by matchup. Finally, I concatenated all games into a single DataFrame, "all_games"df", for analysis and visualization.
+I then looped through a list of game URLs from Week 1, scraped and cleaned each game’s offense table, and stored the results in a dictionary keyed by matchup. Finally, I concatenated all games into a single DataFrame, all_games_df, for analysis and visualization. I saved this dataset locally so I could easily import it into Tableau for dashboard creation.
 <img width="491" height="247" alt="image" src="https://github.com/user-attachments/assets/5735d053-15b4-4415-83fd-e0270b645885" />
 
 # Tableau
