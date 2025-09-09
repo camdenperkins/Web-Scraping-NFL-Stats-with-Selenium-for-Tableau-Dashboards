@@ -5,7 +5,7 @@ Contact Information: 203-290-7611 / camden@fperkins.com
 # Introduction
 With the recent completion of Week 1 of the 2025–26 NFL season, I decided to build a project that reflects both my passion for football and my interest in analytics. 
 To gather the data, I used web scraping techniques such as Selenium in Python to extract player stats and game outcomes directly from [Pro Football Reference](https://www.pro-football-reference.com/). Selenium allowed me to dynamically navigate and collect structured data from the site, which I then cleaned and enriched using pandas.
-After preparing the data, I visualized it in Tableau to demonstrate my skills with interactive dashboards, calculated fields, and custom labeling. The final product highlights position-based performance and team-level comparisons, showcasing how player roles and team dynamics shaped outcomes across the week’s matchups.
+After preparing the data, I visualized it in Tableau to demonstrate my skills with interactive dashboards, calculated fields, and custom labeling. The final product highlights position-based performance showcasing how player roles and team dynamics shaped outcomes across the week’s matchups.
 This project not only demonstrates my technical proficiency in Python and Tableau, but also my ability to build end-to-end pipelines that automate tedious tasks and deliver actionable insights.
 
 # Web Scraping with Selenium
