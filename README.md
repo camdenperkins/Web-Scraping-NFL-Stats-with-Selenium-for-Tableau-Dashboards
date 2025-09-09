@@ -36,3 +36,14 @@ To analyze dual-threat capabilities of NFL running backs, I created a Tableau sc
 Notable performances include Derrick Henry, who dominated on the ground with high rushing yards but minimal receiving involvement, and Christian McCaffrey, who stood out as a true dual-threat with strong contributions in both categories. Breece Hall posted impressive rushing numbers with solid receiving support, while James Cook leaned heavily into the passing game, racking up receiving yards despite limited rushing production.
 
 ### Team Passing Yards Comparison
+On a similar yet more straightforward note, I created a horizontal bar chart in Tableau to compare total passing yards among quarterbacks from Week 1. This visualization ranks each QB by yardage, making it easy to spot the top performers at a glance. A reference line marks the league average of 232 yards, helping contextualize each player's output.
+
+
+<img width="641" height="346" alt="image" src="https://github.com/user-attachments/assets/5c549d31-2053-4579-9deb-30573b0d04b9" />
+
+
+Josh Allen leads the pack with a commanding 394 yards, far surpassing the average and setting the tone for elite production. Justin Herbert follows with a strong 318-yard performance, while Brock Purdy and Daniel Jones each posted over 270 yards, placing them solidly above the mean. On the lower end, Jalen Hurts, Baker Mayfield, and J.J. McCarthy all fell below the average — yet notably, each of them still secured a win in Week 1, underscoring that passing volume isn’t always the deciding factor in game outcomes.
+
+
+
+
