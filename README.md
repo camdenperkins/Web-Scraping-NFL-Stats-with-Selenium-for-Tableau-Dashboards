@@ -29,7 +29,7 @@ I then looped through a list of game URLs from Week 1, scraped and cleaned each 
 
 # Tableau
 ### Running Back Performance Analysis
-To analyze dual-threat capabilities of NFL running backs, I created a Tableau scatter plot visualizing each player's rushing versus receiving yards from Week 1. The chart focuses on the top 30 RBs by total yardage, spotlighting the most productive players. I used a Set to group standout profiles — those with high rushing, receiving, or balanced contributions — and applied a calculated field to label them cleanly: IF [Selected RBs] THEN [Player] ELSE "". This approach highlights the most impactful backs from the week, using distinct colors and dynamic labels to make them stand out visually from the rest of the dataset. <br>
+To analyze dual-threat capabilities of NFL running backs, I created a Tableau scatter plot visualizing each player's rushing versus receiving yards from Week 1. The chart focuses on the top 30 RBs by total yardage, spotlighting the most productive players. I used a Set to group standout profiles — those with high rushing, receiving, or balanced contributions — and applied a calculated field to label them cleanly: "IF [Selected RBs] THEN [Player] ELSE". This approach highlights the most impactful backs from the week, using distinct colors and dynamic labels to make them stand out visually from the rest of the dataset. <br>
 
 <img width="356" height="341" alt="image" src="https://github.com/user-attachments/assets/55e50b2a-e7ba-4fa0-95cf-fdcbf5aaf21b" />
 
