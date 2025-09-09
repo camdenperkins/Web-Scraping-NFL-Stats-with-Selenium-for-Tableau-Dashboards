@@ -1,10 +1,11 @@
 # Web-Scraping-NFL-Stats-with-Selenium-for-Tableau-Dashboards
 Independent Project by Camden Perkins
+Contact Information: 203-290-7611 / camden@fperkins.com
 
 # Introduction
 With the recent completion of Week 1 of the 2025–26 NFL season, I decided to build a project that reflects both my passion for football and my interest in analytics. 
-To gather the data, I used web scraping techniques such as Selenium in Python to extract game scores and outcomes directly from [Pro Football Reference](https://www.pro-football-reference.com/). Selenium allowed me to dynamically navigate and collect structured data from the site, which I then cleaned and enriched using pandas.
-Once the data was prepped, I visualized it in Tableau to showcase my capabilities with interactive dashboards, calculated fields, and custom labeling. The final product highlights position-based performance and team-level comparisons, showcasing how player roles and team dynamics shaped outcomes across the week’s matchups.
+To gather the data, I used web scraping techniques such as Selenium in Python to extract player stats and game outcomes directly from [Pro Football Reference](https://www.pro-football-reference.com/). Selenium allowed me to dynamically navigate and collect structured data from the site, which I then cleaned and enriched using pandas.
+After preparing the data, I visualized it in Tableau to demonstrate my skills with interactive dashboards, calculated fields, and custom labeling. The final product highlights position-based performance and team-level comparisons, showcasing how player roles and team dynamics shaped outcomes across the week’s matchups.
 This project not only demonstrates my technical proficiency in Python and Tableau, but also my ability to build end-to-end pipelines that automate tedious tasks and deliver actionable insights.
 
 # Web Scraping with Selenium
@@ -44,6 +45,7 @@ On a similar yet more straightforward note, I created a horizontal bar chart in 
 
 Josh Allen leads the pack with a commanding 394 yards, far surpassing the average and setting the tone for elite production. Justin Herbert follows with a strong 318-yard performance, while Brock Purdy and Daniel Jones each posted over 270 yards, placing them solidly above the mean. On the lower end, Jalen Hurts, Baker Mayfield, and J.J. McCarthy all fell below the average — yet notably, each of them still secured a win in Week 1, underscoring that passing volume isn’t always the deciding factor in game outcomes.
 
+# Conclusion and Personal Note
+This project showcases my ability to build a complete data pipeline—from scraping raw NFL stats with Selenium, to cleaning and structuring the data in pandas, and finally visualizing it in Tableau with calculated fields, sets, and dynamic labeling. It reflects not just technical proficiency, but also my focus on storytelling through data. Whether it's highlighting dual-threat RBs or comparing QB production, each dashboard was built to highlight meaningful insights.
 
-
-
+Thank you for taking the time to explore this project. If you enjoyed it, I invite you to check out my other work. If you have questions, feedback, or anything else, feel free to reach out using the contact info listed above.
