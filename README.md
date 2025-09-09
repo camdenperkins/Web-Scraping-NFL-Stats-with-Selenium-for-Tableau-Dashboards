@@ -31,7 +31,8 @@ I then looped through a list of game URLs from Week 1, scraped and cleaned each 
 To analyze dual-threat capabilities of NFL running backs, I created a Tableau scatter plot that visualizes each player's rushing yards versus receiving yards from Week 1. The dataset was filtered to include the top 30 RBs by total yards (rushing + receiving), ensuring the chart focused on the most productive players. In Tableau, I created a Set to group players with standout stat profiles — those who accumulated high receiving yards, rushing yards, or both. To label these key performers without cluttering the chart, I used a calculated field: IF [Selected RBs] THEN [Player] ELSE "" END. This approach keeps the visualization clean while highlighting the most impactful backs from the week, using distinct colors and dynamic labels to make the selected RBs stand out visually from the rest of the dataset. <br>
 
 
-<img width="539" height="287" alt="image" src="https://github.com/user-attachments/assets/3cd7cfd8-61af-4d59-b5d2-5660174de01f" />
+<img width="356" height="341" alt="image" src="https://github.com/user-attachments/assets/55e50b2a-e7ba-4fa0-95cf-fdcbf5aaf21b" />
 
+Notable performances include Derrick Henry, who dominated on the ground with high rushing yards but minimal receiving involvement, and Christian McCaffrey, who stood out as a true dual-threat with strong contributions in both categories. Breece Hall posted impressive rushing numbers with solid receiving support, while James Cook leaned heavily into the passing game, racking up receiving yards despite limited rushing production.
 
 ### Team Passing Yards Comparison
