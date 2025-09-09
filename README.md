@@ -13,7 +13,7 @@ To collect player-level offensive stats from Week 1 NFL matchups, I built a scra
 
 The scrape_game() function launches a headless Chrome browser, loads the game page, and locates the offense table embedded inside an HTML comment block. I then parse the table using pandas.read_html() and return it as a DataFrame.
 
-<img width="281" height="353" alt="image" src="https://github.com/user-attachments/assets/719dc6af-1ed5-4f86-8a4d-396214f5d6c0" />
+<img width="524" height="178" alt="image" src="https://github.com/user-attachments/assets/51dcec50-6843-4fbe-9705-0304758df34c" />
 
 # Data Cleaning with Pandas
 
