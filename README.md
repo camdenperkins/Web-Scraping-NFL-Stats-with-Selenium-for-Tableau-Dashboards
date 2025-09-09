@@ -33,7 +33,7 @@ To analyze dual-threat capabilities of NFL running backs, I created a Tableau sc
 
 <img width="356" height="341" alt="image" src="https://github.com/user-attachments/assets/55e50b2a-e7ba-4fa0-95cf-fdcbf5aaf21b" />
 
-Notable performances include Derrick Henry, who dominated on the ground with high rushing yards but minimal receiving involvement, and Christian McCaffrey, who stood out as a true dual-threat with strong contributions in both categories. Breece Hall posted impressive rushing numbers with solid receiving support, while James Cook leaned heavily into the passing game, racking up receiving yards despite limited rushing production.
+Notable performances include Derrick Henry, who dominated on the ground with high rushing yards but minimal receiving involvement, and Christian McCaffrey, who stood out as a true dual-threat with strong contributions in both categories. Breece Hall posted impressive rushing numbers with solid receiving support, while James Cook leaned heavily into the passing game, racking up receiving yards despite limited rushing production. Interestingly, Henry and Hall both lost their matchups despite strong individual stats, while McCaffrey, Cook, and Travis Etienne — who also had standout performances — all came away with wins. This contrast highlights how individual output doesn’t always align with team success.
 
 ### Team Passing Yards Comparison
 On a similar yet more straightforward note, I created a horizontal bar chart in Tableau to compare total passing yards among quarterbacks from Week 1. This visualization ranks each QB by yardage, making it easy to spot the top performers at a glance. A reference line marks the league average of 232 yards, helping contextualize each player's output.
