@@ -1,5 +1,5 @@
 # Web-Scraping-NFL-Stats-with-Selenium-for-Tableau-Dashboards
-Independent Project by Camden Perkins
+Independent Project by Camden Perkins <br>
 Contact Information: 203-290-7611 / camden@fperkins.com
 
 # Introduction
