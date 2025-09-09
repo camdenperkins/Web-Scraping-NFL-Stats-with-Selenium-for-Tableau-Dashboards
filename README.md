@@ -7,3 +7,11 @@ To gather the data, I used web scraping techniques such as Selenium in Python to
 Once the data was prepped, I visualized it in Tableau to showcase my capabilities with interactive dashboards, calculated fields, and custom labeling. The final product highlights position-based performance and team-level comparisons, showcasing how player roles and team dynamics shaped outcomes across the week’s matchups.
 This project not only demonstrates my technical proficiency in Python and Tableau, but also my ability to build end-to-end pipelines that automate tedious tasks and deliver actionable insights.
 
+# Web Scraping
+
+# Data Cleaning and Manipulation
+
+# Tableau
+### Running Back Performance Analysis
+
+### Team Passing Yards Comparison
